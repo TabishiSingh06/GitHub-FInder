@@ -13,11 +13,12 @@
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
-
+ignore: car-tick altogether, var his_presence, var his_aura
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
