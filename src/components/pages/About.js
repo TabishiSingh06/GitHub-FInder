@@ -6,6 +6,7 @@ export const About = () => {
             <h1>About This App</h1>
             <p>App to search Github users</p>
             <p>Versions 1.0.0</p>
+            <p>-Tabishi Singh</p>
         </Fragment>
     )
 }
